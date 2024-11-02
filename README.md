@@ -61,3 +61,7 @@ To do:
 This project was supported by tutorials:   
 * Learn TechToTech - Program to display Text in 3D https://www.youtube.com/watch?v=n-d_le5PiXE
 * Paul McWhorter - Animating 3D Objects in Vpython https://www.youtube.com/watch?v=03ysGfNO-G8&t=447s
+
+Literature:
+* Tristan Bunn. (2021). Learn Python Visually. No Starch Press.
+
