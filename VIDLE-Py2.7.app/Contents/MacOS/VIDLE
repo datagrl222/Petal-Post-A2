@@ -1,0 +1,11 @@
+#!/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python
+
+import sys, os
+
+execdir = os.path.dirname(sys.argv[0])
+resdir = os.path.join(os.path.dirname(execdir), "Resources")
+mainprogram = os.path.join(resdir, "idle.py")
+
+pythonexe = '/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7'
+
+os.execl(pythonexe, '0', mainprogram)
