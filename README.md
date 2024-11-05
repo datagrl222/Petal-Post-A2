@@ -6,7 +6,7 @@ Petal Post is an Ecard alternative featuring a 3D animated flower and user input
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
+* [Set Up](#set-up)
 * [Project Status](#project-status)
 * [Room for improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
@@ -36,10 +36,7 @@ To run this project:
 Download and Install Python2.7 
 https://www.python.org/download/releases/2.7/ 
 
-Install visual module
-```
-from visual import *
-```
+Download and Install VIDLE-Py2.7 (in files above)
 
 When prompted to 'Enter your desired message:' remember to type your message inbetween single apostrophes. For example; 
 ```
